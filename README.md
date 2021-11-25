@@ -1,6 +1,8 @@
 # Hi there 👋 Welcome to my profile!
 
-<div style='position:relative; padding-bottom:calc(56.33% + 44px)'><iframe src='https://gfycat.com/ifr/DamagedImportantAmurratsnake' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/damagedimportantamurratsnake-typography">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(56.33% + 44px)'>
+  <iframe src='https://gfycat.com/ifr/DamagedImportantAmurratsnake' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
+</div>
 
 ## 🤵 About me:
 

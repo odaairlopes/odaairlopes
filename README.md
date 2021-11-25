@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to my profile!
 
-![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e9f39093619361.5e69382bbda42.gif)
+<div style='position:relative; padding-bottom:calc(56.33% + 44px)'><iframe src='https://gfycat.com/ifr/DamagedImportantAmurratsnake' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/damagedimportantamurratsnake-typography">via Gfycat</a></p>
 
 ## 🤵 About me:
 

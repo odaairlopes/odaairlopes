@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to my profile!
 
-![](https://i.gifer.com/5eKX.mp4)
+![](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
 
 ## 🤵 About me:
 

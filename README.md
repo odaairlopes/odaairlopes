@@ -1,6 +1,8 @@
 # Hi there 👋 Welcome to my profile!
 
+<div align="center">
 ![](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
+</div>
 
 ## 🤵 About me:
 

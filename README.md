@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my profile!
+# Hi there 👋 Welcome to my portifolio!
 
 <div align="center">
   <img align="center" height="400" width="533" alt="Odair Img" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />

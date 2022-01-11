@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my portifolio!
+# Hi there 👋
 
 <div align="center">
   <img align="center" height="400" width="533" alt="Odair Img" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
@@ -16,7 +16,7 @@
 
 ## Techs and Tools
 
-### Now using
+### Now using:
 
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)

@@ -10,7 +10,7 @@
 - I'm studying Fullstack Development.
 - I'm currently open to new opportunities.
 - 26 y/o.
-- I want to becoma fullstack developer in future.
+- I want to become a fullstack developer in future.
 - We can talk about Games, Series, Sports, e-Sports and Tech.
 - Learning JavaScript, ReactJS, TypeScript and Python
 

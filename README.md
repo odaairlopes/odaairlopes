@@ -8,11 +8,11 @@
 ## 🤵 About me:
 
 - I'm studying Fullstack Development.
-- I'm currently self-employed in IT.
-- 25y
-- I want to becoma fullstack developer in future
+- I'm currently open to new opportunities.
+- 26 y/o.
+- I want to becoma fullstack developer in future.
 - We can talk about Games, Series, Sports, e-Sports and Tech.
-- Learning JavaScript ReactJS, TypeScript, Python and Java
+- Learning JavaScript, ReactJS, TypeScript and Python
 
 ## Techs and Tools
 
@@ -27,11 +27,11 @@
 ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Techs I am studying:
 
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)

@@ -8,7 +8,7 @@
 ## 🤵 About me:
 
 - I'm Front-End Developer.
-- 28 y/o.
+- 30 y/o.
 - I want to become a fullstack developer in future.
 - We can talk about Games, Series, Sports, e-Sports and Tech.
 - Learning JavaScript, ReactJS, TypeScript and Python.

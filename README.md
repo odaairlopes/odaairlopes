@@ -15,9 +15,9 @@
 
 ## 💡 Architecture & Technical Highlights
 
-- **Micro-frontends (MFE):** Extensive experience building decoupled, standalone applications integrated via Webpack Module Federation[cite: 1, 2].
-- **Complex UI & State Management:** Developed robust visual editors with Drag-and-Drop capabilities and dynamic multi-step forms[cite: 1, 2].
-- **Quality Assurance:** Solid background in writing reliable unit tests using Jest and React Testing Library to ensure production stability[cite: 1].
+- **Micro-frontends (MFE):** Extensive experience building decoupled, standalone applications integrated via Webpack Module Federation.
+- **Complex UI & State Management:** Developed robust visual editors with Drag-and-Drop capabilities and dynamic multi-step forms.
+- **Quality Assurance:** Solid background in writing reliable unit tests using Jest and React Testing Library to ensure production stability.
 
 ## 🛠️ Techs and Tools
 

@@ -10,7 +10,7 @@
 <div align="center">
   <h3>🌍 Choose your language / Escolha seu idioma:</h3>
   <h2>
-    <a href="#pt-br">:brazil: Português</a> | 
+    <a href="#pt-br">🇧🇷 Português</a> | 
     <a href="#en-us">🇺🇸 English</a>
   </h2>
 </div>

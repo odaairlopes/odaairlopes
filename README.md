@@ -4,7 +4,43 @@
   <img align="center" height="400" width="533" alt="Odair Img" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
 </div>
 
-## 🤵 About me
+<br>
+
+<!-- MENU DE IDIOMAS -->
+<div align="center">
+  <h3>🌍 Choose your language / Escolha seu idioma:</h3>
+  <h2>
+    <a href="#pt-br">🇧🇷 Português</a> | 
+    <a href="#en-us">🇺🇸 English</a>
+  </h2>
+</div>
+
+<hr>
+
+<!-- INÍCIO DA VERSÃO EM PORTUGUÊS -->
+<h2 id="pt-br">🇧🇷 Versão em Português</h2>
+
+### 🤵 Sobre mim
+
+- 💻 **Engenheiro de Software | Desenvolvedor Front-End** com mais de 4 anos de experiência construindo aplicações web escaláveis e de alta performance.
+- 🏗️ **Especializado no** ecossistema React, TypeScript e arquiteturas modernas como Micro-frontends.
+- 🧪 Forte defensor da qualidade de código, arquitetura limpa e testes automatizados.
+- 🤖 Utilizo ativamente ferramentas de IA no meu fluxo diário para otimizar desenvolvimento, testes e documentação.
+- 🚀 Atualmente expandindo minhas habilidades Full-Stack e aprofundando meus conhecimentos em Next.js e Node.js.
+- 🎮 Fora do código, podemos conversar sobre Games, Séries, Esportes, e-Sports e Tecnologia!
+
+### 💡 Destaques Técnicos e Arquitetura
+
+- **Micro-frontends (MFE):** Ampla experiência na construção de aplicações independentes e desacopladas, integradas via Webpack Module Federation.
+- **UI Complexas & Gerenciamento de Estado:** Desenvolvimento de editores visuais robustos com funcionalidades Drag-and-Drop e formulários dinâmicos em múltiplas etapas.
+- **Garantia de Qualidade:** Sólida bagagem na escrita de testes unitários confiáveis utilizando Jest e React Testing Library para garantir a estabilidade em produção.
+
+---
+
+<!-- INÍCIO DA VERSÃO EM INGLÊS -->
+<h2 id="en-us">🇺🇸 English Version</h2>
+
+### 🤵 About me
 
 - 💻 **Software Engineer | Front-End Developer** with 4+ years of experience building scalable and high-performance web applications.
 - 🏗️ **Specialized in** the React ecosystem, TypeScript, and modern architectures such as Micro-frontends.
@@ -13,13 +49,15 @@
 - 🚀 Currently expanding my Full-Stack skills and deepening my knowledge in Next.js and Node.js.
 - 🎮 Outside of code, we can talk about Games, Series, Sports, e-Sports, and Tech!
 
-## 💡 Architecture & Technical Highlights
+### 💡 Architecture & Technical Highlights
 
 - **Micro-frontends (MFE):** Extensive experience building decoupled, standalone applications integrated via Webpack Module Federation.
 - **Complex UI & State Management:** Developed robust visual editors with Drag-and-Drop capabilities and dynamic multi-step forms.
 - **Quality Assurance:** Solid background in writing reliable unit tests using Jest and React Testing Library to ensure production stability.
 
-## 🛠️ Techs and Tools
+---
+
+## 🛠️ Techs and Tools (Stack)
 
 ### Daily Stack:
 
@@ -49,3 +87,7 @@
 <a href="https://www.linkedin.com/in/odairlopesdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Odair Lopes"/></a>
 <a href="mailto:odairlopesdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail Odair" /></a>
 <a href="https://www.instagram.com/odaairlopes_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Odair Lopes" /></a>
+<br>
+<div align="center">
+  <a href="#">⬆️ Back to top / Voltar ao topo</a>
+</div>
